@@ -1,0 +1,2 @@
+// Function
+console.log('test');
